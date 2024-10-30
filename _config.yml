@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Introdução ao reconhecimento de Padrões
-author: Vitor Jorge
+author: Kamilla Taiwhscki
 logo: images/logobg.png
 
 # Force re-execution of notebooks on each build.
